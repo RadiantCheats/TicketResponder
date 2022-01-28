@@ -1,0 +1,31 @@
+{
+  "name": "ticketresponder",
+  "version": "1.0.0",
+  "description": "used for radiant staff",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "opusscript": "^0.0.8",
+    "eris": "^0.15.1",
+    "phin": "^3.6.1",
+    "ws": "^7.5.6",
+    "pluris": "^0.3.7",
+    "tweetnacl": "^1.0.3",
+    "centra": "^2.5.0",
+    "eris-reactions": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadiantCheats/TicketResponder.git"
+  },
+  "author": "Luck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RadiantCheats/TicketResponder/issues"
+  },
+  "homepage": "https://github.com/RadiantCheats/TicketResponder#readme"
+}
